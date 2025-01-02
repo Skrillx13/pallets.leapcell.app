@@ -5,8 +5,15 @@
     {% include 'partials/head.html' %}
 </head>
 
+<header class="container">
+    {% include 'partials/header.html' %}
+</header>
+
 <body>
-    {% block content %}{% endblock %}
+    <main class="container">
+        {% block content %}{% endblock %}
+      </main>
+    {% include 'partials/javascripts.html' %}
 </body>
 
 </html>

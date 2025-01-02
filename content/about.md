@@ -1,4 +1,6 @@
 ---
 title: About Us
-layout: page.html
+layout: page
 ---
+
+We are cats
