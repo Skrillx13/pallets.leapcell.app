@@ -4,3 +4,4 @@ Frozen-Flask
 Markdown
 Pygments
 PyYAML
+Gunicorn
