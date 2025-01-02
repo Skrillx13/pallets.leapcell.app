@@ -1,0 +1,8 @@
+# - Packages -
+.venv
+__pycache__
+build
+
+# - Misc -
+.vscode
+.DS_Store

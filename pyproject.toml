@@ -1,0 +1,14 @@
+[project]
+name = "pallets-leapcell-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.0",
+    "flask-flatpages>=0.8.3",
+    "frozen-flask>=1.0.2",
+    "markdown>=3.7",
+    "pygments>=2.18.0",
+    "pyyaml>=6.0.2",
+]
